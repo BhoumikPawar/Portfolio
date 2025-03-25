@@ -1,36 +1,21 @@
 <div align="center">
-  <!-- Banner -->
-  <img src="https://via.placeholder.com/1200x300?text=My+Portfolio+Banner" alt="Portfolio Banner" style="width:100%; max-width:1200px; margin-bottom:20px;">
-  
-  <!-- Header -->
-  <h1 style="font-family: Arial, sans-serif; color: #35424a; font-size: 4em; margin: 0;">My Portfolio</h1>
-  <p style="font-family: Arial, sans-serif; font-size: 1.5em; margin: 10px 0 30px;">A curated collection of my projects and skills</p>
-  
-  <hr style="border: 2px solid #e8491d; width: 80%; margin: 30px auto;">
-  
-  <!-- Projects Section -->
-  <h2 style="font-family: Arial, sans-serif; color: #e8491d; font-size: 3em; margin-bottom: 30px;">Projects</h2>
-  <ul style="list-style: none; padding: 0; font-family: Arial, sans-serif; font-size: 1.5em;">
-    <li style="margin: 20px 0;">
-      <img src="https://via.placeholder.com/50" alt="Network Dashboard Icon" style="vertical-align:middle; margin-right:10px;">
-      <strong>Network Dashboard:</strong> Real-time monitoring tool.
-    </li>
-    <li style="margin: 20px 0;">
-      <img src="https://via.placeholder.com/50" alt="Log Alert System Icon" style="vertical-align:middle; margin-right:10px;">
-      <strong>Log Alert System:</strong> Automated log analysis &amp; alerts.
-    </li>
-    <li style="margin: 20px 0;">
-      <img src="https://via.placeholder.com/50" alt="Analytics Dashboard Icon" style="vertical-align:middle; margin-right:10px;">
-      <strong>Analytics Dashboard:</strong> Visual insights for supply chain.
-    </li>
-    <li style="margin: 20px 0;">
-      <img src="https://via.placeholder.com/50" alt="Cybersecurity Scanner Icon" style="vertical-align:middle; margin-right:10px;">
-      <strong>Cybersecurity Scanner:</strong> Identify vulnerabilities.
-    </li>
-  </ul>
-  
-  <hr style="border: 2px solid #e8491d; width: 80%; margin: 30px auto;">
-  
-  <!-- Footer Note -->
-  <p style="font-family: Arial, sans-serif; font-size: 1.5em; margin: 30px 0 0;">Explore my work and get in touch!</p>
+  <h1 style="color:#35424a; font-size: 3em; font-family: Arial, sans-serif;">My Portfolio Projects</h1>
+  <p style="font-size:1.2em; font-family: Arial, sans-serif; line-height: 1.6;">
+    <strong style="color:#e8491d;">Network &amp; Server Monitoring Dashboard</strong><br>
+    <em style="color:#2a9d8f;">Automated Log Monitoring &amp; Alerting System</em><br>
+    <span style="color:#264653; font-weight: bold;">Supply Chain Analytics Dashboard</span><br>
+    <i style="color:#f4a261;">Virtual IT Lab Simulation</i><br>
+    <strong style="color:#e76f51;">Cybersecurity Vulnerability Scanner</strong><br>
+    <span style="color:#8a2be2; font-style: italic;">Cloud Backup &amp; Recovery System</span><br>
+    <b style="color:#2d2d2d;">Incident Management Tool</b><br>
+    <em style="color:#ff6347;">Agile Project Management Dashboards</em><br>
+    <strong style="color:#4682b4;">IoT Environmental Monitoring System</strong><br>
+    <span style="color:#6a994e; font-weight: bold; font-style: italic;">Game Development Prototypes</span><br>
+    <b style="color:#ff4500;">CCNA Lab Simulations</b><br>
+    <i style="color:#008080;">Business Analytics &amp; Reporting Tools</i>
+  </p>
+  <hr style="width:80%; border:1px solid #e8491d; margin-top:20px;">
+  <p style="font-size:1em; font-family: Arial, sans-serif; color:#555;">
+    <strong>* Explore more projects and get in touch! *</strong>
+  </p>
 </div>
